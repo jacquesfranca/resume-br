@@ -69,91 +69,59 @@ jul. de 2016 - out. de 2016<br />
 - Coordenação de Business Intelligence
 - Produção de conteúdo em eventos, transmissões ao vivo e acompanhamento e direcionamento de imagem de candidatos
 
-Cumbuca
-2015 – 2016
+#### [Cumbuca](www.cumbuca.ag/) (Recife/PE), Redatora Digital<br />
+jul. de 2012 - mar. de 2016<br />
+- Planejamento estratégico das redes sociais
+- Gerenciamento do conteúdo e ações de engajamento
+- Elaboração de conteúdo digital
 
+#### PianoLab (Recife/PE), Atendimento e Redatora Digital<br />
+mai. de 2015 - jul. de 2015<br />
+- Planejamento estratégico das redes sociais, gerenciamento do conteúdo e ações de engajamento
+- Elaboração de conteúdo digital
+- Gestão de pauta
+- Coordenação de equipe de criação com acompanhamento de entregas de jobs nos prazos estabelecidos
+- Interface com os clientes - do briefing até a aprovação
 
-Redatora Digital
-• Planejamento estratégico das redes sociais, gerenciamento do conteúdo e ações de engajamento
-• Elaboração de conteúdo digital
+#### Gomo (Recife/PE), Cofundadora, atendimento e front-end<br />
+nov. de 2010 – jan. de 2015<br />
+- Interface com os clientes - briefing, escopo de trabalho, apresentação de projetos, aprovações, entregas, orçamentos
+- Planejamento e coordenação de projetos digitais
+- Desenvolvimento de conteúdo digital
+- Desenvolvimento font-end de blogs e sites com HTML, CSS, Javascript, PHP e Wordpress
 
-
-PianoLab
-2015
-Atendimento e Redatora Digital
-• Planejamento estratégico das redes sociais, gerenciamento do conteúdo e ações de engajamento
-• Elaboração de conteúdo digital
-• Gestão de pauta
-• Coordenação de equipe de criação com acompanhamento de entregas de jobs nos prazos estabelecidos
-• Interface com os clientes - do briefing até a aprovação
-
-
-Gomo
-2010 – 2015
-
-
-Cofundadora: Atendimento e Desenvolvedora Fron-end
-• Interface com os clientes - briefing, escopo de trabalho, apresentação de projetos, aprovações, entregas, orçamentos
-• Planejamento e coordenação no desenvolvimento de interfaces para o ambiente digital
-• Desenvolvimento de conteúdo para meios digitais.
-• Desenvolvimento Front-end de blogs e sites com HTML, CSS, PHP e implementação Wordpress
-
-
-Casullo
-2013 – 2014
-
-
-Atendimento
+#### Casullo Agência Digital (Recife/PE), Atendimento<br />
+abr. de 2013 – fev. de 2014<br />
 • Atendimento com foco em websites, hotsites e aplicativos para redes sociais
 • Escopo, mapa de site e wireframes para projetos
 • Planejamento e desenvolvimento de estratégias para web 
 • Gerenciamento de projetos
 
+#### [E.life](https://elife.com.br/) (Recife/PE), Analista de Buzz (Estágio) <br />
+jun. de 2011 – abr. de 2012 <br />
+- Mensuração de buzz em redes sociais
+- Análise de sentimento
+- Desenvolvimento relatórios baseados em métricas para gerenciamento de crise
 
-E.life
-2011 – 2012
+#### [Brava Comunicação] (https://www.bravacomunicacao.com/) (Recife/PE), Community Manager (Estágio) <br />
+jun. de 2010 – ago. de 2011 <br />
+- Planejamento, desenvolvimento de ações, agenda de conteúdo e redação para redes sociais
+- Social Responding
+- Social Listening
 
-
-Estagiária de Social Media (Analista de Buzz)
-• Mensuração de buzz em redes sociais
-• Desenvolvimento relatórios baseados em métricas para gerenciamento de crise
-
-
-Brava Comunicação
-2010 – 2011
-
-
-Estagiária de Social Media (Community Manager)
-• Criação de conteúdo para redes sociais
-• Interface com clientes
-• Interação com consumidores nas redes sociais
-• Análise de buzz
-•  Planejamento e desenvolvimento de ações para redes sociais
-
-
-Segsat
-2007 – 2008
-
-
-Designer Jr.
-• Responsável por todo material de comunicação interna, publicidade e material digital;
-• Redação de todo conteúdo do material de comunicação interna, publicidade e material digital;
-• Curadoria e redação do conteúdo do novo site Segsat
-• Webdesigner (UI / Front-end / Back-end) do redesign do site Segsat na plataforma Wordpress.
-
-
-
-
+#### Segsat (Recife/PE), Designer Jr. <br />
+nov. de 2007 – ago. de 2008 <br />
+- Responsável por todo material de comunicação interna, publicidade e site
+- Redação de todo conteúdo do material de comunicação interna, publicidade e site
+- Webdesigner (AI, Sitemap, Front-end, Back-end) do redesign do site Segsat na plataforma Wordpress
 ___
 ## FORMAÇÃO ACADÊMICA
 
 #### [Universidade Federal de Pernambuco](https://www.ufpe.br), Licenciatura em Ciências Sociais
-Graduação, não concluído
-2015 - 2016
+Graduação não concluída | 2015 - 2016
 
 #### [UNINASSAU](https://www.uninassau.edu.br/), Bacharelado em Comunicação Social - Publicidade e Propaganda
-Graduação, concluído
-2009 - 2012
+Graduação concluída | 2008 - 2012
 ___
 ## CURSOS
 - **Strategy Camp #2** | [Miami Ad School](https://www.miamiadschool.com.br/) | 2021
@@ -163,5 +131,7 @@ ___
 - **Computação Gráfica - Ilustração, Web e Game com ferramentas Adobe** | [Escola SAGA](https://www.saga.art.br/) | 2011
 ___
 ## EVENTOS E APRESENTAÇÕES
+- **Preto no Branco: debate sobre representatividade negra na propaganda** | bg9 | 2020
+- **Campanhas Eleitorais e Gerenciamento de Perfis Políticos no Campo Digital** | ESM/FAMA | 2020
 ___
 ## HABILIDADES
