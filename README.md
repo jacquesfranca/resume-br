@@ -103,13 +103,13 @@ jun. de 2011 – abr. de 2012 <br />
 - Análise de sentimento
 - Desenvolvimento relatórios baseados em métricas para gerenciamento de crise
 
-#### [Brava Comunicação] (https://www.bravacomunicacao.com/) (Recife/PE), Community Manager (Estágio) <br />
+#### [Brava Comunicação](https://www.bravacomunicacao.com/) (Recife/PE), Community Manager (Estágio) <br />
 jun. de 2010 – ago. de 2011 <br />
 - Planejamento, desenvolvimento de ações, agenda de conteúdo e redação para redes sociais
 - Social Responding
 - Social Listening
 
-#### Segsat (Recife/PE), Designer Jr. <br />
+#### [Segsat](https://segsat.com/) (Recife/PE), Designer Jr. <br />
 nov. de 2007 – ago. de 2008 <br />
 - Responsável por todo material de comunicação interna, publicidade e site
 - Redação de todo conteúdo do material de comunicação interna, publicidade e site
@@ -135,3 +135,7 @@ ___
 - **Campanhas Eleitorais e Gerenciamento de Perfis Políticos no Campo Digital** | ESM/FAMA | 2020
 ___
 ## HABILIDADES
+- **Competências:** Conteúdo Digital, Planejamento Estratégico, Social Listening, Social Responding, Análise de dados, Pesquisa de Mercado, Gestão de Projetos, Marketing Digital, Roteiros para internet, CS, UX.
+- **Ferramentas:** Buzzmonitor, Photoshop, Illustrator, Wordpress, Publi
+- **Desenvolvimento Web:** HTML5, CSS3
+- **Idiomas:** Português (BR), Inglês (intermediário)
