@@ -139,4 +139,3 @@ ___
 - **Desenvolvimento Web:** HTML5, CSS3
 - **Idiomas:** Português (BR), Inglês (intermediário)
 <br /><br />
-###### *Currículo feito em .markdown (.md) com ajuda do git, convertido em .pdf. Mais experiências no www.github.com/jacquesfranca*
