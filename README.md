@@ -4,7 +4,6 @@ Jaboatão, Pernambuco, Brasil
 - [jacquelinefranca.com](https://jacquelinefranca.com) <br />
 - [linkedin.com/jacquelinefranca](https://www.linkedin.com/in/jacquelinefranca/)<br />
 - jacqueline.francaa@gmail.com<br />
-- 81 99964.2754
 ___
 Jacqueline trabalha há 14 anos com produtos e conteúdo digital. Com formação em publicidade e atuação em áreas como criação, planejamento e design, tem experiência em gestão de projetos e times multidisciplinares, com passagens em empresas de desenvolvimento web, assessoria de imprensa, inteligência de mercado, agências de publicidade e marketing. <br /> <br /> Acredita que entregas cada vez melhores são feitas com planejamento estratégico, metodologia e trabalho em equipe. E que é possível desenvolver projetos de sucesso criando trajetórias com propósito e estabelecendo conversas honestas com comunidades e usuários. 
 ___
