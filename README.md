@@ -9,7 +9,7 @@ Jacqueline trabalha há 14 anos com produtos e conteúdo digital. Com formação
 ___
 ## EXPERIÊNCIA PROFISSIONAL
 
-#### [BG9](www.bg9.com.br) (Recife/PE), Coordenadora de Projetos Digitais<br />
+#### [BG9](https://www.bg9.com.br) (Recife/PE), Coordenadora de Projetos Digitais<br />
 out. de 2020 - atualmente<br />
 - Coordenação de estratégia e agenda de conteúdo
 - Criação de ações de engajamento e projetos especiais
@@ -19,7 +19,7 @@ out. de 2020 - atualmente<br />
 - Acompanhamento de indicadores, relatórios e resultados de campanhas, conteúdos e ações
 - Acompanhamento dos jobs, definição de prioridades e prazos
 
-#### [Cumbuca](www.cumbuca.ag/) (Recife/PE), Coordenadora de Conteúdo Digital<br />
+#### [Cumbuca](https://www.cumbuca.ag/) (Recife/PE), Coordenadora de Conteúdo Digital<br />
 jul. de 2018 - out. de 2020<br />
 - Coordenação de estratégia e agenda de conteúdo
 - Redação de conteúdo digital
@@ -36,7 +36,7 @@ jul. de 2018 – out. de 2018
 - Gestão de crise
 - Gestão de equipe e de fluxo de trabalho
 
-#### [Cumbuca](www.cumbuca.ag/) (Recife/PE), Redatora Digital<br />
+#### [Cumbuca](https://www.cumbuca.ag/) (Recife/PE), Redatora Digital<br />
 set. de 2017 - jul. de 2018<br />
 - Planejamento estratégico das redes sociais, gerenciamento do conteúdo e ações de engajamento
 - Conteúdo para redes sociais, sites e e-mail marketing
@@ -46,7 +46,7 @@ set. de 2017 - jul. de 2018<br />
 - Gestão de equipe
 - Elaboração da pauta - diária e semanal, acompanhamento de entregas do jobs nos prazos estabelecidos
 
-#### [Agência Iris](www.agenciairis.com.br) (Recife/PE), Redatora Sênior e Atendimento Digital<br />
+#### [Agência Iris](https://www.agenciairis.com.br) (Recife/PE), Redatora Sênior e Atendimento Digital<br />
 abr. de 2017 - set. de 2017<br />
 - Planejamento estratégico das redes sociais, gerenciamento do conteúdo e ações de engajamento
 - Conteúdo para redes sociais, sites e e-mail marketing
@@ -68,7 +68,7 @@ jul. de 2016 - out. de 2016<br />
 - Coordenação de Business Intelligence
 - Produção de conteúdo em eventos, transmissões ao vivo e acompanhamento e direcionamento de imagem de candidatos
 
-#### [Cumbuca](www.cumbuca.ag/) (Recife/PE), Redatora Digital<br />
+#### [Cumbuca](https://www.cumbuca.ag/) (Recife/PE), Redatora Digital<br />
 jul. de 2012 - mar. de 2016<br />
 - Planejamento estratégico das redes sociais
 - Gerenciamento do conteúdo e ações de engajamento
