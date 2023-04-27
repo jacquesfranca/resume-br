@@ -8,6 +8,18 @@ ___
 Jacqueline trabalha há 14 anos com produtos e conteúdo digital. Com formação em publicidade e atuação em áreas como criação, planejamento e design, tem experiência em gestão de projetos e times multidisciplinares, com passagens em empresas de desenvolvimento web, assessoria de imprensa, inteligência de mercado, agências de publicidade e marketing. <br /> <br /> Acredita que entregas cada vez melhores são feitas com planejamento estratégico, metodologia e trabalho em equipe. E que é possível desenvolver projetos de sucesso criando trajetórias com propósito e estabelecendo conversas honestas com comunidades e usuários. 
 ___
 ## EXPERIÊNCIA PROFISSIONAL
+
+#### [Natura](https://www.natura.com.br) (São Paulo/SP), Analista de Redes Sociais e Influência<br />
+jul. de 2022 - atualmente<br />
+Responsável pela criação de estratégias de mídia social, o planejamento e execução das campanhas em Social e com Influenciadores com base nos KPIs estabelecidos – de campanha e área, sempre em parceria com as agências criativas e de social, assim como agência interna Hub.
+
+- Co-governança da brand persona Nat Natura: briefing, aprovação e criação de conteúdo
+- Relacionamentoe interface com áreas Natura e agências, sempre com o olhar de consultoria estratégica
+- Produção de briefing para as agências
+- Trazer a provocação de produção de conteúdo para redes sociais
+- Assegurar as boas práticas, assim como as especificidades de cada canal
+- Olhar orientado para métricas, mensurando esforços no digital que visam engajamento
+
 #### [Humanz](https://www.humanz.com) (São Paulo/SP), Content & Strategy Planner<br />
 jun. de 2022 - jul. de 2022<br />
 - Planejamento estratégico, tático e criativo de campanha dos influenciadores, incluindo curadoria de nomes, escopo, estudo de volumetria e referências de conteúdo; 
