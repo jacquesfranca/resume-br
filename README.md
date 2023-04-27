@@ -8,10 +8,17 @@ ___
 Jacqueline trabalha há 14 anos com produtos e conteúdo digital. Com formação em publicidade e atuação em áreas como criação, planejamento e design, tem experiência em gestão de projetos e times multidisciplinares, com passagens em empresas de desenvolvimento web, assessoria de imprensa, inteligência de mercado, agências de publicidade e marketing. <br /> <br /> Acredita que entregas cada vez melhores são feitas com planejamento estratégico, metodologia e trabalho em equipe. E que é possível desenvolver projetos de sucesso criando trajetórias com propósito e estabelecendo conversas honestas com comunidades e usuários. 
 ___
 ## EXPERIÊNCIA PROFISSIONAL
+#### [Humanz](https://www.humanz.com) (São Paulo/SP), Content & Strategy Planner<br />
+jun. de 2022 - jul. de 2022<br />
+- Planejamento estratégico, tático e criativo de campanha dos influenciadores, incluindo curadoria de nomes, escopo, estudo de volumetria e referências de conteúdo; 
+- Contribuição com o mapeamento, seleção, elaboração de orçamentos e aprovação dos creators; 
+- Elaboração de cronograma com creators e cliente e acompanhamento das etapas para a totalidade de seu cumprimento;
+- Inserção de briefing na plataforma; 
+- Gerenciamento e aprovação de conteúdo interna e com cliente.
 
 #### [BG9](https://www.bg9.com.br) (Recife/PE), Coordenadora de Projetos Digitais<br />
-out. de 2020 - atualmente<br />
-- Coordenação de estratégia e agenda de conteúdo
+out. de 2020 - jun. de 2022<br />
+- Gestão de estratégia e agenda de conteúdo
 - Criação de ações de engajamento e projetos especiais
 - Interface com influenciadores e demais fornecedores para projetos de conteúdo digital
 - Gestão de equipe
@@ -19,9 +26,9 @@ out. de 2020 - atualmente<br />
 - Acompanhamento de indicadores, relatórios e resultados de campanhas, conteúdos e ações
 - Acompanhamento dos jobs, definição de prioridades e prazos
 
-#### [Cumbuca](https://www.cumbuca.ag/) (Recife/PE), Coordenadora de Conteúdo Digital<br />
+#### [Cumbuca](https://www.cumbuca.ag/) (Recife/PE), Gerente de Conteúdo Digital<br />
 jul. de 2018 - out. de 2020<br />
-- Coordenação de estratégia e agenda de conteúdo
+- Gestão de estratégia e agenda de conteúdo
 - Redação de conteúdo digital
 - Elaboração de roteiros para internet e tv
 - Criação de ações de engajamento e projetos especiais
