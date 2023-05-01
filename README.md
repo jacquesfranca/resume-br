@@ -1,5 +1,5 @@
 # Jacqueline França
-Jaboatão, Pernambuco, Brasil
+Recife, Pernambuco, Brasil
 
 - [jacquelinefranca.com](https://jacquelinefranca.com) <br />
 - [linkedin.com/jacquelinefranca](https://www.linkedin.com/in/jacquelinefranca/)<br />
